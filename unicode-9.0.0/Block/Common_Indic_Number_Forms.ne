@@ -1,0 +1,1 @@
+unicode_Block_Common_Indic_Number_Forms -> "\uA830" | "\uA831" | "\uA832" | "\uA833" | "\uA834" | "\uA835" | "\uA836" | "\uA837" | "\uA838" | "\uA839" | "\uA83A" | "\uA83B" | "\uA83C" | "\uA83D" | "\uA83E" | "\uA83F"
