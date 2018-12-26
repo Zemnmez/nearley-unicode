@@ -1,1 +1,1 @@
-unicode_Bidi_Class_Left_To_Right_Embedding -> "\u202A" {% id %}
+unicode_9_0_0_bidi_class_left_to_right_embedding -> "\u202A" {% id %}

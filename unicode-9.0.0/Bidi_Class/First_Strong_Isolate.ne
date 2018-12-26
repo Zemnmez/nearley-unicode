@@ -1,1 +1,1 @@
-unicode_Bidi_Class_First_Strong_Isolate -> "\u2068" {% id %}
+unicode_9_0_0_bidi_class_first_strong_isolate -> "\u2068" {% id %}

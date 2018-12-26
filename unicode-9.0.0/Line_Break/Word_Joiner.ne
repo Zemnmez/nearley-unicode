@@ -1,1 +1,1 @@
-unicode_Line_Break_Word_Joiner -> "\u2060" | "\uFEFF" {% id %}
+unicode_9_0_0_line_break_word_joiner -> "\u2060" | "\uFEFF" {% id %}

@@ -1,1 +1,1 @@
-unicode_Bidi_Class_Pop_Directional_Isolate -> "\u2069" {% id %}
+unicode_9_0_0_bidi_class_pop_directional_isolate -> "\u2069" {% id %}

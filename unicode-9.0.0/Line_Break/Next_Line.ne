@@ -1,1 +1,1 @@
-unicode_Line_Break_Next_Line -> "\u0085" {% id %}
+unicode_9_0_0_line_break_next_line -> "\u0085" {% id %}

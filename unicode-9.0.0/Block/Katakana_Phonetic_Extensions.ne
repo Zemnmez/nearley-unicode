@@ -1,1 +1,1 @@
-unicode_Block_Katakana_Phonetic_Extensions -> "\u31F0" | "\u31F1" | "\u31F2" | "\u31F3" | "\u31F4" | "\u31F5" | "\u31F6" | "\u31F7" | "\u31F8" | "\u31F9" | "\u31FA" | "\u31FB" | "\u31FC" | "\u31FD" | "\u31FE" | "\u31FF" {% id %}
+unicode_9_0_0_block_katakana_phonetic_extensions -> "\u31F0" | "\u31F1" | "\u31F2" | "\u31F3" | "\u31F4" | "\u31F5" | "\u31F6" | "\u31F7" | "\u31F8" | "\u31F9" | "\u31FA" | "\u31FB" | "\u31FC" | "\u31FD" | "\u31FE" | "\u31FF" {% id %}

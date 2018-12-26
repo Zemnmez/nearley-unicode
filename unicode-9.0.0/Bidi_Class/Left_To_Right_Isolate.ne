@@ -1,1 +1,1 @@
-unicode_Bidi_Class_Left_To_Right_Isolate -> "\u2066" {% id %}
+unicode_9_0_0_bidi_class_left_to_right_isolate -> "\u2066" {% id %}

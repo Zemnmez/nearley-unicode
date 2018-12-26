@@ -1,1 +1,1 @@
-unicode_Binary_Property_Join_Control -> "\u200C" | "\u200D" {% id %}
+unicode_9_0_0_binary_property_join_control -> "\u200C" | "\u200D" {% id %}

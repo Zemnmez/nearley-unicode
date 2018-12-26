@@ -1,1 +1,1 @@
-unicode_Line_Break_Contingent_Break -> "\uFFFC" {% id %}
+unicode_9_0_0_line_break_contingent_break -> "\uFFFC" {% id %}
