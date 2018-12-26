@@ -1,1 +1,1 @@
-unicode_11_0_0_word_break_lf -> "\n" {% id %}
+unicode_11_0_0_word_break_lf -> \n {% id %}

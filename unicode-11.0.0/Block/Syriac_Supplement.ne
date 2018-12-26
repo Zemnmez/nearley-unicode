@@ -1,1 +1,1 @@
-unicode_11_0_0_block_syriac_supplement -> "\u0860" | "\u0861" | "\u0862" | "\u0863" | "\u0864" | "\u0865" | "\u0866" | "\u0867" | "\u0868" | "\u0869" | "\u086A" | "\u086B" | "\u086C" | "\u086D" | "\u086E" | "\u086F" {% id %}
+unicode_11_0_0_block_syriac_supplement ->  [\u0860-\u086F]  {% id %}
