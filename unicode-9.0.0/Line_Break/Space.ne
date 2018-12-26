@@ -1,1 +1,1 @@
-unicode_Line_Break_Space -> " "
+unicode_Line_Break_Space -> " " {% id %}

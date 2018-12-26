@@ -1,1 +1,1 @@
-unicode_Binary_Property_Bidi_Control -> "\u061C" | "\u200E" | "\u200F" | "\u202A" | "\u202B" | "\u202C" | "\u202D" | "\u202E" | "\u2066" | "\u2067" | "\u2068" | "\u2069"
+unicode_Binary_Property_Bidi_Control -> "\u061C" | "\u200E" | "\u200F" | "\u202A" | "\u202B" | "\u202C" | "\u202D" | "\u202E" | "\u2066" | "\u2067" | "\u2068" | "\u2069" {% id %}

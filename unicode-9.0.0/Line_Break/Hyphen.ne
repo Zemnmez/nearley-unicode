@@ -1,1 +1,1 @@
-unicode_Line_Break_Hyphen -> "-"
+unicode_Line_Break_Hyphen -> "-" {% id %}

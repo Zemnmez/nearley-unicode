@@ -1,1 +1,1 @@
-unicode_Word_Break_Single_Quote -> "'"
+unicode_Word_Break_Single_Quote -> "'" {% id %}

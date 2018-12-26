@@ -15,7 +15,7 @@ let symbols = Object.keys(unicode).map(property =>
 			} )
 		).join(" | ");
 
-		return {path: [base,property,value], content:`unicode_${property}_${value} -> ${string}`}
+		return {path: [base,property,value], content:`unicode_${property}_${value} -> ${string} {% id %}`}
 	})
 )
 

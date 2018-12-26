@@ -1,1 +1,1 @@
-unicode_Line_Break_Break_Symbols -> "/"
+unicode_Line_Break_Break_Symbols -> "/" {% id %}
